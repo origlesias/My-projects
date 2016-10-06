@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Biblioteca>
+    <Pelicula>
+        <Titulo>Piratas del caribe: La maldicion de la perla negra</Titulo>
+        <Director>Gore Verbinski</Director>
+        <Genero>Accion</Genero>
+        <FechaLanzamiento>2003-06-12+02:00</FechaLanzamiento>
+        <Duracion>140</Duracion>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Star Wars: Episodio IV - Una nueva esperanza</Titulo>
+        <Director>George Lucas</Director>
+        <Genero>Ciencia ficcion</Genero>
+        <FechaLanzamiento>1997-03-21+01:00</FechaLanzamiento>
+        <Duracion>121</Duracion>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>El seÃ±or de los anillos: La comunidad del anillo</Titulo>
+        <Director>Peter Jackson</Director>
+        <Genero>Fantasia</Genero>
+        <FechaLanzamiento>2001-12-21+01:00</FechaLanzamiento>
+        <Duracion>165</Duracion>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Sleepy Hollow</Titulo>
+        <Director>Tim Burton</Director>
+        <Genero>Suspense</Genero>
+        <FechaLanzamiento>2000-01-21+01:00</FechaLanzamiento>
+        <Duracion>105</Duracion>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Funeraria independient</Titulo>
+        <Director>Josep Hernandez</Director>
+        <Genero>Comedia</Genero>
+        <FechaLanzamiento>2002-05-25+02:00</FechaLanzamiento>
+        <Duracion>92</Duracion>
+    </Pelicula>
+</Biblioteca>

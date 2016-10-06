@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Pelicula>
+        <Titulo>hola</Titulo>
+        <Director>caralcola</Director>
+		<Genero>hello</Genero>
+		<FechaLanzamiento>21/5/12</FechaLanzamiento>
+		<Duracion>world</Duracion>
+	</Pelicula>
+	<Pelicula>
+        <Titulo>hola</Titulo>
+        <Director>caralcola</Director>
+		<Genero>hello</Genero>
+		<FechaLanzamiento>21/5/12</FechaLanzamiento>
+		<Duracion>world</Duracion>
+	</Pelicula>
+</Biblioteca>
